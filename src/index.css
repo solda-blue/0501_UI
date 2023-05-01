@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.slides {
+  width: 400px;
+  height: 300px;
+}
+
+.slide1 {
+  background: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg');
+}
+.slide2 {
+  background: url('https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg');
+}
+.slide3 {
+  background: url('https://www.pexels.com/photo/1261728/download/');
+}
